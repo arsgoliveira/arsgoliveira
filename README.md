@@ -1,6 +1,5 @@
 ## Olá, eu sou o Antonio Rodrigo!
-
-
+Trabalho com manutenção de computadores a 23 anos e estou iniciando na area de programação, espero em breve estar contribuindo positivamente com a comunidade.
 
 
 <div style="display: inline_block"><br>  
