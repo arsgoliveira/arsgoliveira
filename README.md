@@ -1,5 +1,19 @@
-## Olá, eu sou o Antonio Rodrigo!
+💻 Antonio Rodrigo — Técnico em Informática & Desenvolvedor Web
 
+👋 Olá! Sou Antonio Rodrigo, técnico em informática com 25 anos de experiência em manutenção de computadores, redes e suporte técnico.
+Atualmente, também atuo na criação de sites modernos, responsivos e otimizados para resultados.
+
+🧰 Minhas especialidades
+
+💻 Manutenção de hardware e montagem de PCs
+
+🌐 Criação de sites com HTML, CSS e JavaScript
+
+🔧 Redes e infraestrutura de TI
+
+🧩 Suporte técnico presencial e remoto
+
+⚙️ Otimização de desempenho e segurança
 
 
 <div style="display: inline_block"><br>  
