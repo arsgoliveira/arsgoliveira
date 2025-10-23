@@ -28,6 +28,8 @@ Atualmente, também atuo na **criação de sites modernos, responsivos e otimiza
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img class="github" alt="GitHub" height="50" width="50"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img class="terminal" alt="Terminal" height="50" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img class="vscode" alt="VSCode" height="50" width="50"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
@@ -92,13 +94,30 @@ Atualmente, também atuo na **criação de sites modernos, responsivos e otimiza
   filter: drop-shadow(0 0 6px rgba(244, 67, 54, 0.6));
 }
 .skills-icons .git:hover {
-  filter: drop-shadow(
+  filter: drop-shadow(0 0 14px rgba(244, 67, 54, 1));
+}
 
+.skills-icons .github {
+  filter: drop-shadow(0 0 6px rgba(0, 0, 0, 0.6));
+}
+.skills-icons .github:hover {
+  filter: drop-shadow(0 0 14px rgba(255, 255, 255, 0.9));
+}
 
+.skills-icons .terminal {
+  filter: drop-shadow(0 0 6px rgba(76, 175, 80, 0.6)); /* Verde suave */
+}
+.skills-icons .terminal:hover {
+  filter: drop-shadow(0 0 14px rgba(76, 255, 100, 1)); /* Verde neon */
+}
 
-
-
-
+.skills-icons .vscode {
+  filter: drop-shadow(0 0 6px rgba(3, 169, 244, 0.6));
+}
+.skills-icons .vscode:hover {
+  filter: drop-shadow(0 0 14px rgba(3, 169, 244, 1));
+}
+</style>
 
 ---
 
