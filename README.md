@@ -34,34 +34,64 @@ Atualmente, também atuo na **criação de sites modernos, responsivos e otimiza
 .skills-icons img {
   transition: transform 0.3s ease, filter 0.3s ease;
   margin: 5px;
+  animation: pulse 3s infinite ease-in-out;
 }
 
-/* Efeito geral */
+/* Animação de pulsar suave */
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 0.9;
+  }
+  50% {
+    transform: scale(1.08);
+    opacity: 1;
+  }
+}
+
+/* Efeito geral de hover */
 .skills-icons img:hover {
-  transform: scale(1.2);
+  transform: scale(1.25);
+  opacity: 1;
 }
 
 /* Efeitos individuais por cor */
+.skills-icons .html {
+  filter: drop-shadow(0 0 6px rgba(255, 87, 34, 0.6));
+}
 .skills-icons .html:hover {
-  filter: drop-shadow(0 0 10px rgba(255, 87, 34, 0.8)); /* Laranja HTML */
+  filter: drop-shadow(0 0 12px rgba(255, 87, 34, 1));
 }
 
+.skills-icons .css {
+  filter: drop-shadow(0 0 6px rgba(33, 150, 243, 0.6));
+}
 .skills-icons .css:hover {
-  filter: drop-shadow(0 0 10px rgba(33, 150, 243, 0.8)); /* Azul CSS */
+  filter: drop-shadow(0 0 12px rgba(33, 150, 243, 1));
 }
 
+.skills-icons .js {
+  filter: drop-shadow(0 0 6px rgba(255, 235, 59, 0.6));
+}
 .skills-icons .js:hover {
-  filter: drop-shadow(0 0 10px rgba(255, 235, 59, 0.8)); /* Amarelo JS */
+  filter: drop-shadow(0 0 12px rgba(255, 235, 59, 1));
 }
 
+.skills-icons .git {
+  filter: drop-shadow(0 0 6px rgba(244, 67, 54, 0.6));
+}
 .skills-icons .git:hover {
-  filter: drop-shadow(0 0 10px rgba(244, 67, 54, 0.8)); /* Vermelho Git */
+  filter: drop-shadow(0 0 12px rgba(244, 67, 54, 1));
 }
 
+.skills-icons .vscode {
+  filter: drop-shadow(0 0 6px rgba(3, 169, 244, 0.6));
+}
 .skills-icons .vscode:hover {
-  filter: drop-shadow(0 0 10px rgba(3, 169, 244, 0.8)); /* Azul-claro VSCode */
+  filter: drop-shadow(0 0 12px rgba(3, 169, 244, 1));
 }
 </style>
+
 
 ---
 
