@@ -17,80 +17,90 @@ Atualmente, também atuo na **criação de sites modernos, responsivos e otimiza
 
 ## 🧠 Tecnologias
 
-<div class="skills-icons" style="display: inline-block"><br>  
-  <img class="html" align="center" alt="HTML" height="40" width="50"
+<div class="skills-icons" style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;"><br>  
+  <img class="html" alt="HTML" height="50" width="50"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img class="css" align="center" alt="CSS" height="40" width="50"
+  <img class="css" alt="CSS" height="50" width="50"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img class="js" align="center" alt="JavaScript" height="40" width="50"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img class="git" align="center" alt="Git" height="40" width="50"
+  <img class="js" alt="JavaScript" height="50" width="50"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img class="git" alt="Git" height="50" width="50"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img class="vscode" align="center" alt="VSCode" height="40" width="50"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img class="vscode" alt="VSCode" height="50" width="50"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
 <style>
-.skills-icons img {
-  transition: transform 0.3s ease, filter 0.3s ease;
-  margin: 5px;
-  animation: pulse 3s infinite ease-in-out;
+/* Container centralizado */
+.skills-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 10px;
 }
 
-/* Animação de pulsar suave */
+/* Ícones com animação e brilho */
+.skills-icons img {
+  transition: transform 0.3s ease, filter 0.3s ease;
+  animation: pulse 3s infinite ease-in-out;
+  opacity: 0.95;
+}
+
+/* Animação pulsante suave */
 @keyframes pulse {
   0%, 100% {
     transform: scale(1);
-    opacity: 0.9;
   }
   50% {
     transform: scale(1.08);
-    opacity: 1;
   }
 }
 
-/* Efeito geral de hover */
+/* Efeito de hover mais intenso */
 .skills-icons img:hover {
   transform: scale(1.25);
   opacity: 1;
 }
 
-/* Efeitos individuais por cor */
+/* Cores individuais */
 .skills-icons .html {
   filter: drop-shadow(0 0 6px rgba(255, 87, 34, 0.6));
 }
 .skills-icons .html:hover {
-  filter: drop-shadow(0 0 12px rgba(255, 87, 34, 1));
+  filter: drop-shadow(0 0 14px rgba(255, 87, 34, 1));
 }
 
 .skills-icons .css {
   filter: drop-shadow(0 0 6px rgba(33, 150, 243, 0.6));
 }
 .skills-icons .css:hover {
-  filter: drop-shadow(0 0 12px rgba(33, 150, 243, 1));
+  filter: drop-shadow(0 0 14px rgba(33, 150, 243, 1));
 }
 
 .skills-icons .js {
   filter: drop-shadow(0 0 6px rgba(255, 235, 59, 0.6));
 }
 .skills-icons .js:hover {
-  filter: drop-shadow(0 0 12px rgba(255, 235, 59, 1));
+  filter: drop-shadow(0 0 14px rgba(255, 235, 59, 1));
 }
 
 .skills-icons .git {
   filter: drop-shadow(0 0 6px rgba(244, 67, 54, 0.6));
 }
 .skills-icons .git:hover {
-  filter: drop-shadow(0 0 12px rgba(244, 67, 54, 1));
+  filter: drop-shadow(0 0 14px rgba(244, 67, 54, 1));
 }
 
 .skills-icons .vscode {
   filter: drop-shadow(0 0 6px rgba(3, 169, 244, 0.6));
 }
 .skills-icons .vscode:hover {
-  filter: drop-shadow(0 0 12px rgba(3, 169, 244, 1));
+  filter: drop-shadow(0 0 14px rgba(3, 169, 244, 1));
 }
 </style>
+
 
 
 
