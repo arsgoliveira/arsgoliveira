@@ -17,11 +17,51 @@ Atualmente, também atuo na **criação de sites modernos, responsivos e otimiza
 
 ## 🧠 Tecnologias
 
-<div style="display: inline_block"><br>  
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div class="skills-icons" style="display: inline-block"><br>  
+  <img class="html" align="center" alt="HTML" height="40" width="50"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img class="css" align="center" alt="CSS" height="40" width="50"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img class="js" align="center" alt="JavaScript" height="40" width="50"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img class="git" align="center" alt="Git" height="40" width="50"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img class="vscode" align="center" alt="VSCode" height="40" width="50"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
+
+<style>
+.skills-icons img {
+  transition: transform 0.3s ease, filter 0.3s ease;
+  margin: 5px;
+}
+
+/* Efeito geral */
+.skills-icons img:hover {
+  transform: scale(1.2);
+}
+
+/* Efeitos individuais por cor */
+.skills-icons .html:hover {
+  filter: drop-shadow(0 0 10px rgba(255, 87, 34, 0.8)); /* Laranja HTML */
+}
+
+.skills-icons .css:hover {
+  filter: drop-shadow(0 0 10px rgba(33, 150, 243, 0.8)); /* Azul CSS */
+}
+
+.skills-icons .js:hover {
+  filter: drop-shadow(0 0 10px rgba(255, 235, 59, 0.8)); /* Amarelo JS */
+}
+
+.skills-icons .git:hover {
+  filter: drop-shadow(0 0 10px rgba(244, 67, 54, 0.8)); /* Vermelho Git */
+}
+
+.skills-icons .vscode:hover {
+  filter: drop-shadow(0 0 10px rgba(3, 169, 244, 0.8)); /* Azul-claro VSCode */
+}
+</style>
 
 ---
 
