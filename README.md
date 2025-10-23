@@ -25,7 +25,7 @@ Atualmente, também atuo na **criação de sites modernos, responsivos e otimiza
   <img class="js" align="center" alt="JavaScript" height="40" width="50"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img class="git" align="center" alt="Git" height="40" width="50"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img class="vscode" align="center" alt="VSCode" height="40" width="50"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
@@ -91,6 +91,8 @@ Atualmente, também atuo na **criação de sites modernos, responsivos e otimiza
   filter: drop-shadow(0 0 12px rgba(3, 169, 244, 1));
 }
 </style>
+
+
 
 
 ---
