@@ -23,7 +23,7 @@ Atualmente, também atuo na **criação de sites modernos, responsivos e otimiza
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" width="50" alt="JavaScript" style="margin:10px;transition:transform 0.3s ease;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="Git" style="margin:10px;transition:transform 0.3s ease;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="GitHub" style="margin:10px;transition:transform 0.3s ease;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" width="50" alt="Terminal" style="margin:10px;transition:transform 0.3s ease;"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" alt="VSCode" style="margin:10px;transition:transform 0.3s ease;"/>
 </div>
 
