@@ -2,25 +2,25 @@
 <h1 align="center">Antonio Rodrigo</h1>
 
 <p align="center">
-  Desenvolvedor Web focado em interfaces modernas, responsivas e com visual profissional.
+  Desenvolvedor Front-End focado em interfaces modernas, responsivas e com visual profissional.
 </p>
 
 <p align="center">
-  <a href="https://github.com/arsgoliveira">GitHub</a> •
+  <a href="https://github.com/arsgoliveira">GitHub</a> â€¢
   <a href="https://www.linkedin.com/in/antonio-rodrigo-gomes-de-oliveira-55240134a">LinkedIn</a>
 </p>
 
 <p align="center">
-  HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS
+  HTML â€¢ CSS â€¢ JavaScript â€¢ TypeScript â€¢ React â€¢ Next.js â€¢ Tailwind CSS
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou desenvolvedor web com foco na criacao de sites modernos, rapidos e bem estruturados, unindo performance, responsividade e boa experiencia do usuario.
+Desenvolvo sites e interfaces com foco em performance, responsividade e organizacao de codigo. Busco unir boa apresentacao visual com estrutura solida para entregar experiencias confiaveis e profissionais.
 
-Minha trajetoria em tecnologia tambem inclui anos de experiencia com suporte tecnico, manutencao e infraestrutura. Essa base fortalece minha visao pratica para resolver problemas e entregar solucoes confiaveis.
+Minha trajetoria em tecnologia tambem inclui suporte tecnico, manutencao e infraestrutura. Essa base fortalece minha visao pratica para resolver problemas e construir solucoes que funcionam bem no mundo real.
 
 ## Tecnologias e ferramentas
 
@@ -32,40 +32,46 @@ Minha trajetoria em tecnologia tambem inclui anos de experiencia com suporte tec
   <img src="https://img.shields.io/badge/Firebird-Database-orange?style=for-the-badge" alt="Firebird" />
 </p>
 
-## Stack principal
+## O que eu entrego
 
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Tailwind CSS
+- Landing pages e sites institucionais com visual profissional
+- Interfaces responsivas com foco em experiencia do usuario
+- Projetos em React, Next.js e TypeScript com estrutura organizada
+- Solucoes web com atencao a performance, SEO e manutencao
 
-## Outras tecnologias
+## Projetos em destaque
 
-- Python
-- PHP
-- MySQL
-- Firebird
-- Git
-- GitHub
-- Vercel
-- VS Code
+### Estela Sousa Advocacia
+
+Site institucional para escritorio de advocacia com foco em credibilidade, navegacao clara e contato rapido.
+
+- Stack: Next.js 16, React 19, TypeScript, Tailwind CSS, Framer Motion
+- Destaques: hero com CTA, areas de atuacao, depoimentos, consulta de processos e contato por WhatsApp
+- Codigo: [github.com/arsgoliveira/estela-adv](https://github.com/arsgoliveira/estela-adv)
+
+### Micro Fast Informatica
+
+Site institucional voltado para apresentacao de servicos, autoridade visual e conversao para atendimento.
+
+- Stack: HTML, CSS e JavaScript
+- Destaques: estrutura para deploy, paginas de servicos, CTA para WhatsApp, sitemap e robots.txt
+- Codigo: [github.com/arsgoliveira/Micro-Fast-Inform-tica](https://github.com/arsgoliveira/Micro-Fast-Inform-tica)
+- Demo: [microfastinformatica.online](https://microfastinformatica.online/)
+
+### Winbakk Solution
+
+Landing page para produto SaaS com foco em automacao de relacionamento, recuperacao de clientes inativos e comunicacao orientada a resultado.
+
+- Stack: HTML, CSS e JavaScript
+- Destaques: hero comercial, secoes de processo e resultados, FAQ interativo, apresentacao do time e visual dark glassmorphism
+- Codigo: [github.com/arsgoliveira/winbakk-solution](https://github.com/arsgoliveira/winbakk-solution)
 
 ## Foco atual
 
 - Evoluir como Desenvolvedor Front-End
-- Criar projetos modernos para portfolio
+- Fortalecer projetos com React, Next.js e TypeScript
+- Criar cases de portfolio com boa apresentacao e codigo organizado
 - Aprimorar performance, responsividade e boas praticas
-- Expandir conhecimentos em React, Next.js e TypeScript
-- Desenvolver solucoes web com qualidade visual e tecnica
-
-## Projetos em destaque
-
-- [Micro Fast Informatica](https://github.com/arsgoliveira): projeto com foco em apresentacao profissional de servicos, responsividade e carregamento rapido.
-- [Portugas Bacalhau](https://www.portugasbacalhau.com.br): site institucional voltado para presenca digital com navegacao clara e visual profissional.
-- [Projeto 2](https://www.refrigeracaolc.com.br): pagina desenvolvida para negocio local com estrutura leve e foco em conversao.
 
 ## Objetivo profissional
 
