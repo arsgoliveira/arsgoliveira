@@ -29,7 +29,7 @@ Minha trajetoria em tecnologia tambem inclui suporte tecnico, manutencao e infra
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebird-Database-orange?style=for-the-badge" alt="Firebird" />
+  Firebird
 </p>
 
 ## O que eu entrego
@@ -76,13 +76,6 @@ Landing page para produto SaaS com foco em automacao de relacionamento, recupera
 ## Objetivo profissional
 
 Busco oportunidades para atuar como desenvolvedor web, contribuindo com interfaces bem construidas, codigo organizado e solucoes digitais que gerem valor real para clientes e empresas.
-
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arsgoliveira&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsgoliveira&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
 
 ## Contato
 
