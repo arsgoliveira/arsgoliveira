@@ -6,12 +6,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/arsgoliveira">GitHub</a> â€¢
+  <a href="https://github.com/arsgoliveira">GitHub</a> |
   <a href="https://www.linkedin.com/in/antonio-rodrigo-gomes-de-oliveira-55240134a">LinkedIn</a>
 </p>
 
 <p align="center">
-  HTML â€¢ CSS â€¢ JavaScript â€¢ TypeScript â€¢ React â€¢ Next.js â€¢ Tailwind CSS
+  HTML | CSS | JavaScript | TypeScript | React | Next.js | Tailwind CSS
 </p>
 
 ---
