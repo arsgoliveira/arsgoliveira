@@ -1,74 +1,77 @@
-# 💻 Antonio Rodrigo — Técnico em Informática & Desenvolvedor Web
+<h1 align="center">Antonio Rodrigo</h1>
 
-👋 Olá! Sou **Antonio Rodrigo**, técnico em informática com **25 anos de experiência** em manutenção de computadores, redes e suporte técnico.  
-Atualmente, também atuo na **criação de sites modernos, responsivos e otimizados**, unindo desempenho e design.
+<p align="center">
+  Desenvolvedor Web focado em criar sites modernos, responsivos, rápidos e com visual profissional.
+</p>
 
----
-
-## 🚀 Especialidades
-
-- 💻 Montagem e manutenção de computadores  
-- 🧰 Redes e infraestrutura de TI  
-- 🌐 Criação de sites com **HTML, CSS e JavaScript**  
-- ⚙️ Otimização de desempenho e segurança  
-- 🧩 Suporte técnico remoto e presencial  
+<p align="center">
+  Transição estratégica da experiência em suporte e infraestrutura para o desenvolvimento de soluções web com foco em performance, usabilidade e organização.
+</p>
 
 ---
 
-## 🧠 Tecnologias
+## Sobre mim
 
-<div align="center"><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" width="50" alt="HTML" style="margin:10px;transition:transform 0.3s ease;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" width="50" alt="CSS" style="margin:10px;transition:transform 0.3s ease;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" width="50" alt="JavaScript" style="margin:10px;transition:transform 0.3s ease;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="Git" style="margin:10px;transition:transform 0.3s ease;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50" alt="GitHub" style="margin:10px;transition:transform 0.3s ease;"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" alt="VSCode" style="margin:10px;transition:transform 0.3s ease;"/>
-</div>
+Sou desenvolvedor web com foco em interfaces modernas e projetos bem estruturados, utilizando tecnologias do ecossistema front-end e também ferramentas que fazem parte da minha base técnica.
+
+Minha trajetória em tecnologia começou muito antes do código, com anos de experiência em manutenção, redes e suporte técnico. Hoje, aplico essa visão prática para desenvolver soluções web funcionais, confiáveis e com boa apresentação.
 
 ---
 
-## 🌐 Projeto em Destaque
+## Tecnologias e ferramentas
 
-🔹 [**Micro Fast Informática — 25 anos de experiência**](http://microfastinformatica.online/)  
-💬 Site institucional com destaque para serviços de manutenção, redes e criação de sites responsivos.  
-📱 Design moderno, rápido e otimizado, desenvolvido com HTML, CSS e JavaScript puro.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,php,mysql,git,github,vscode,vercel" />
+</p>
 
----
+### Stack principal
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
 
-## 📊 Status GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arsgoliveira&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsgoliveira&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contato & Redes
-
-<div> 
-  <a href="https://instagram.com/arsgoliveira" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://discord.gg/arsgo80" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0b5f8a?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:argoliveira80@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%230b5f8a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/antonio-rodrigo-gomes-de-oliveira-55240134a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230e7ab3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
+### Outras tecnologias e ferramentas
+- Python
+- PHP
+- MySQL
+- Firebird
+- Git
+- GitHub
+- Vercel
+- VS Code
 
 ---
 
-## ⚡ Curiosidade
+## Foco atual
 
-Sou apaixonado por **tecnologia e inovação** — gosto de unir **hardware, software e criatividade** para resolver problemas reais.  
-Meu objetivo é entregar **soluções confiáveis, rápidas e com visual profissional** para meus clientes e parceiros.
+- Evoluir como Desenvolvedor Front-End
+- Criar projetos modernos para portfólio
+- Aprimorar responsividade, performance e boas práticas
+- Expandir conhecimentos em React, Next.js e TypeScript
+- Desenvolver soluções web com mais qualidade visual e técnica
 
 ---
 
-> 💙 “Tecnologia com propósito, desempenho e transparência.”  
-> — *Antonio Rodrigo*
+## Projetos em destaque
+
+### Micro Fast Informática
+Site institucional com foco em apresentação de serviços, responsividade, visual profissional e carregamento rápido.
+
+### Sites para negócios locais
+Projetos desenvolvidos para fortalecer a presença digital de empresas, com navegação clara, layout moderno e estrutura leve.
+
+### Portfólio em evolução
+Repositórios voltados ao aprendizado, prática e construção de autoridade como desenvolvedor web.
+
+---
+
+## Objetivo profissional
+
+Busco oportunidades para atuar como desenvolvedor web, contribuindo com interfaces bem construídas, código organizado e soluções digitais que entreguem valor real para empresas e clientes.
+
+---
+
+## Contato
