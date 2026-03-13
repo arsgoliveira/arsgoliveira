@@ -1,90 +1,76 @@
-<!-- markdownlint-disable MD033 -->
-<h1 align="center">Antonio Rodrigo</h1>
+# Antonio Rodrigo 👋
 
-<p align="center">
-  Desenvolvedor Front-End focado em interfaces modernas, responsivas e com visual profissional.
-</p>
+Desenvolvedor Full Stack focado em criar aplicações web modernas, performáticas e com impacto real para negócios.
 
-<p align="center">
-  <a href="https://github.com/arsgoliveira">GitHub</a> |
-  <a href="https://www.linkedin.com/in/antonio-rodrigo-gomes-de-oliveira-55240134a">LinkedIn</a>
-</p>
-
-<p align="center">
-  HTML | CSS | JavaScript | TypeScript | React | Next.js | Tailwind CSS
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-arsgoliveira-181717?style=for-the-badge&logo=github)](https://github.com/arsgoliveira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio%20Rodrigo-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antonio-rodrigo-gomes-de-oliveira-55240134a/)
 
 ---
 
-## Sobre mim
+## 🚀 Sobre mim
 
-Desenvolvo sites e interfaces com foco em performance, responsividade e organizacao de codigo. Busco unir boa apresentacao visual com estrutura solida para entregar experiencias confiaveis e profissionais.
+Atuo no desenvolvimento de soluções web completas, do front-end ao back-end, com foco em performance, organização de código e boa experiência do usuário.
 
-Minha trajetoria em tecnologia tambem inclui suporte tecnico, manutencao e infraestrutura. Essa base fortalece minha visao pratica para resolver problemas e construir solucoes que funcionam bem no mundo real.
+Tenho base prática em suporte técnico e infraestrutura, o que fortalece minha visão para diagnóstico, estabilidade e entrega de projetos que funcionam no mundo real.
 
-## Tecnologias e ferramentas
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,php,mysql,git,github,vercel,vscode" alt="Tecnologias e ferramentas" />
-</p>
+## 🧰 Stack principal
 
-<p align="center">
-  Firebird
-</p>
+- **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- **Back-end:** Node.js, Express, Python, PHP
+- **Banco de dados:** PostgreSQL, MySQL, MongoDB
+- **Ferramentas e processos:** Git, GitHub, Jira, Scrum, Kanban
+- **Deploy:** Vercel, Netlify
 
-## O que eu entrego
+---
 
-- Landing pages e sites institucionais com visual profissional
-- Interfaces responsivas com foco em experiencia do usuario
-- Projetos em React, Next.js e TypeScript com estrutura organizada
-- Solucoes web com atencao a performance, SEO e manutencao
+## 📌 O que eu entrego
 
-## Projetos em destaque
+- Landing pages e sites institucionais com foco em conversão
+- Interfaces responsivas com visual profissional
+- APIs REST e integrações entre sistemas
+- Projetos full stack com atenção a performance, SEO e manutenção
+
+---
+
+## 💼 Projetos em destaque
 
 ### Estela Sousa Advocacia
+Site institucional para escritório de advocacia com foco em credibilidade, navegação clara e contato rápido.
 
-Site institucional para escritorio de advocacia com foco em credibilidade, navegacao clara e contato rapido.
+- **Stack:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion
+- **Código:** [github.com/arsgoliveira/estela-adv](https://github.com/arsgoliveira/estela-adv)
 
-- Stack: Next.js 16, React 19, TypeScript, Tailwind CSS, Framer Motion
-- Destaques: hero com CTA, areas de atuacao, depoimentos, consulta de processos e contato por WhatsApp
-- Codigo: [github.com/arsgoliveira/estela-adv](https://github.com/arsgoliveira/estela-adv)
+### Micro Fast Informática
+Site institucional voltado para apresentação de serviços, autoridade visual e conversão para atendimento.
 
-### Micro Fast Informatica
-
-Site institucional voltado para apresentacao de servicos, autoridade visual e conversao para atendimento.
-
-- Stack: HTML, CSS e JavaScript
-- Destaques: estrutura para deploy, paginas de servicos, CTA para WhatsApp, sitemap e robots.txt
-- Codigo: [github.com/arsgoliveira/Micro-Fast-Inform-tica](https://github.com/arsgoliveira/Micro-Fast-Inform-tica)
-- Demo: [microfastinformatica.online](https://microfastinformatica.online/)
+- **Stack:** HTML, CSS, JavaScript
+- **Código:** [github.com/arsgoliveira/Micro-Fast-Inform-tica](https://github.com/arsgoliveira/Micro-Fast-Inform-tica)
+- **Demo:** [microfastinformatica.online](https://microfastinformatica.online/)
 
 ### Winbakk Solution
+Landing page para produto SaaS com foco em automação de relacionamento e comunicação orientada a resultado.
 
-Landing page para produto SaaS com foco em automacao de relacionamento, recuperacao de clientes inativos e comunicacao orientada a resultado.
-
-- Stack: HTML, CSS e JavaScript
-- Destaques: hero comercial, secoes de processo e resultados, FAQ interativo, apresentacao do time e visual dark glassmorphism
-- Codigo: [github.com/arsgoliveira/winbakk-solution](https://github.com/arsgoliveira/winbakk-solution)
-
-## Foco atual
-
-- Evoluir como Desenvolvedor Front-End
-- Fortalecer projetos com React, Next.js e TypeScript
-- Criar cases de portfolio com boa apresentacao e codigo organizado
-- Aprimorar performance, responsividade e boas praticas
-
-## Objetivo profissional
-
-Busco oportunidades para atuar como desenvolvedor web, contribuindo com interfaces bem construidas, codigo organizado e solucoes digitais que gerem valor real para clientes e empresas.
-
-## Contato
-
-- GitHub: [github.com/arsgoliveira](https://github.com/arsgoliveira)
-- LinkedIn: [antonio-rodrigo-gomes-de-oliveira-55240134a](https://www.linkedin.com/in/antonio-rodrigo-gomes-de-oliveira-55240134a)
+- **Stack:** HTML, CSS, JavaScript
+- **Código:** [github.com/arsgoliveira/winbakk-solution](https://github.com/arsgoliveira/winbakk-solution)
 
 ---
 
-<p align="center">
-  Tecnologia com proposito, desempenho e transparencia.
-</p>
-<!-- markdownlint-enable MD033 -->
+## 🎯 Foco atual
+
+- Evoluir em arquitetura Full Stack (front + back + banco)
+- Fortalecer projetos com React, Next.js, Node.js, Python e PHP
+- Criar cases com boa apresentação técnica e visão de produto
+- Aprimorar performance, escalabilidade e boas práticas
+
+---
+
+## 📫 Contato
+
+- **GitHub:** [github.com/arsgoliveira](https://github.com/arsgoliveira)
+- **LinkedIn:** [linkedin.com/in/antonio-rodrigo-gomes-de-oliveira-55240134a](https://www.linkedin.com/in/antonio-rodrigo-gomes-de-oliveira-55240134a/)
+
+---
+
+⭐ Tecnologia com propósito, desempenho e transparência.
