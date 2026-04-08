@@ -74,17 +74,34 @@ Atualmente trabalho como **Analista N2 na HidroMares By SGS** e estudo **Anális
 
 <div align="center">
 
+<a href="https://github.com/arsgoliveira/mercalog-global">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsgoliveira&repo=mercalog-global&theme=tokyonight&hide_border=true" />
+</a>
 <a href="https://github.com/arsgoliveira/hidromares-dashboard-v5">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsgoliveira&repo=hidromares-dashboard-v5&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
-### 🌊 HidroMares Dashboard
+<br/>
+
+### 🛒 MercaLog
+> App mobile PWA para controle pessoal de gastos em supermercado
+
+**Stack:** React • TypeScript • PWA • IndexedDB  
+**Features:** Scanner de código de barras • Registro de sessões de compra • Rastreamento de inflação • Gestão de variantes de produtos
+
+🔗 **Repositório:** [github.com/arsgoliveira/mercalog-global](https://github.com/arsgoliveira/mercalog-global)
+
+---
+
+### 🌊 [HidroMares Dashboard](https://hidromares-dashboard.vercel.app/)
 > Dashboard de produtividade para equipe de analistas com integração Jira Cloud
 
 **Stack:** React 18 • Vite • FastAPI • PostgreSQL • Redis • Docker  
 **Features:** KPI Cards • Filtros por período • Gráficos Recharts • Visão individual por membro
+
+🔗 **Demo:** [hidromares-dashboard.vercel.app](https://hidromares-dashboard.vercel.app/)
 
 ---
 
@@ -94,21 +111,27 @@ Atualmente trabalho como **Analista N2 na HidroMares By SGS** e estudo **Anális
 **Stack:** HTML5 • CSS3 • JavaScript • Vercel  
 **Features:** Design responsivo • WhatsApp integration • Menu digital • SEO otimizado
 
+🔗 **Demo:** [portugas-bacalhau.vercel.app](https://portugas-bacalhau.vercel.app)
+
 ---
 
-### ⚖️ Estela Advocacia
+### ⚖️ [Estela Advocacia](https://estela-adv.vercel.app/)
 > Site institucional para escritório de advocacia
 
-**Stack:** HTML5 • CSS3 • JavaScript  
+**Stack:** HTML5 • CSS3 • JavaScript • Vercel  
 **Features:** Design elegante • Formulário de contato • Áreas de atuação
+
+🔗 **Demo:** [estela-adv.vercel.app](https://estela-adv.vercel.app/)
 
 ---
 
-### 💼 Winbakk Solution
+### 💼 [Winbakk Solution](https://winbakk-solution.vercel.app/)
 > Landing page para empresa de soluções tecnológicas
 
-**Stack:** HTML5 • CSS3 • JavaScript  
+**Stack:** HTML5 • CSS3 • JavaScript • Vercel  
 **Features:** Design moderno • Animações • Call-to-actions estratégicos
+
+🔗 **Demo:** [winbakk-solution.vercel.app](https://winbakk-solution.vercel.app/)
 
 ---
 
@@ -153,7 +176,7 @@ Estou sempre aberto a novos projetos, colaborações e oportunidades!
 
 <div align="center">
 
-### 💻 Desenvolvido por Antonio Oliveira
+### 💻 Desenvolvido com ❤️ por Antonio Oliveira
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arsgoliveira&color=3b82f6&style=for-the-badge&label=Visitantes)
 
