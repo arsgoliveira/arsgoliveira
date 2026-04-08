@@ -74,8 +74,8 @@ Atualmente trabalho como **Analista N2 na HidroMares By SGS** e estudo **Anális
 
 <div align="center">
 
-<a href="https://github.com/arsgoliveira/mercalog-global">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsgoliveira&repo=mercalog-global&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/arsgoliveira/mercalog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsgoliveira&repo=mercalog&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/arsgoliveira/hidromares-dashboard-v5">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsgoliveira&repo=hidromares-dashboard-v5&theme=tokyonight&hide_border=true" />
@@ -91,7 +91,7 @@ Atualmente trabalho como **Analista N2 na HidroMares By SGS** e estudo **Anális
 **Stack:** React • TypeScript • PWA • IndexedDB  
 **Features:** Scanner de código de barras • Registro de sessões de compra • Rastreamento de inflação • Gestão de variantes de produtos
 
-🔗 **Repositório:** [github.com/arsgoliveira/mercalog-global](https://github.com/arsgoliveira/mercalog-global)
+🔗 **Repositório:** [github.com/arsgoliveira/mercalog](https://github.com/arsgoliveira/mercalog)
 
 ---
 
@@ -176,7 +176,7 @@ Estou sempre aberto a novos projetos, colaborações e oportunidades!
 
 <div align="center">
 
-### 💻 Desenvolvido com ❤️ por Antonio Oliveira
+### 💻 Desenvolvido por Antonio Oliveira
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arsgoliveira&color=3b82f6&style=for-the-badge&label=Visitantes)
 
