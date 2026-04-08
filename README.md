@@ -74,10 +74,10 @@ Atualmente trabalho como **Analista N2 na HidroMares By SGS** e estudo **Anális
 
 <div align="center">
 
-<a href="https://github.com/arsgoliveira/mercalog">
+<a href="https://github.com/arsgoliveira/mercalog" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsgoliveira&repo=mercalog&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/arsgoliveira/hidromares-dashboard-v5">
+<a href="https://github.com/arsgoliveira/hidromares-dashboard-v5" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsgoliveira&repo=hidromares-dashboard-v5&theme=tokyonight&hide_border=true" />
 </a>
 
@@ -91,47 +91,47 @@ Atualmente trabalho como **Analista N2 na HidroMares By SGS** e estudo **Anális
 **Stack:** React • TypeScript • PWA • IndexedDB  
 **Features:** Scanner de código de barras • Registro de sessões de compra • Rastreamento de inflação • Gestão de variantes de produtos
 
-🔗 **Repositório:** [github.com/arsgoliveira/mercalog](https://github.com/arsgoliveira/mercalog)
+🔗 **Repositório:** <a href="https://github.com/arsgoliveira/mercalog" target="_blank">github.com/arsgoliveira/mercalog</a>
 
 ---
 
-### 🌊 [HidroMares Dashboard](https://hidromares-dashboard.vercel.app/)
+### 🌊 <a href="https://hidromares-dashboard.vercel.app/" target="_blank">HidroMares Dashboard</a>
 > Dashboard de produtividade para equipe de analistas com integração Jira Cloud
 
 **Stack:** React 18 • Vite • FastAPI • PostgreSQL • Redis • Docker  
 **Features:** KPI Cards • Filtros por período • Gráficos Recharts • Visão individual por membro
 
-🔗 **Demo:** [hidromares-dashboard.vercel.app](https://hidromares-dashboard.vercel.app/)
+🔗 **Demo:** <a href="https://hidromares-dashboard.vercel.app/" target="_blank">hidromares-dashboard.vercel.app</a>
 
 ---
 
-### 🍽️ [Portugas Bacalhau](https://portugas-bacalhau.vercel.app)
+### 🍽️ <a href="https://portugas-bacalhau.vercel.app" target="_blank">Portugas Bacalhau</a>
 > Website institucional para restaurante tradicional português em Santos
 
 **Stack:** HTML5 • CSS3 • JavaScript • Vercel  
 **Features:** Design responsivo • WhatsApp integration • Menu digital • SEO otimizado
 
-🔗 **Demo:** [portugas-bacalhau.vercel.app](https://portugas-bacalhau.vercel.app)
+🔗 **Demo:** <a href="https://portugas-bacalhau.vercel.app" target="_blank">portugas-bacalhau.vercel.app</a>
 
 ---
 
-### ⚖️ [Estela Advocacia](https://estela-adv.vercel.app/)
+### ⚖️ <a href="https://estela-adv.vercel.app/" target="_blank">Estela Advocacia</a>
 > Site institucional para escritório de advocacia
 
 **Stack:** HTML5 • CSS3 • JavaScript • Vercel  
 **Features:** Design elegante • Formulário de contato • Áreas de atuação
 
-🔗 **Demo:** [estela-adv.vercel.app](https://estela-adv.vercel.app/)
+🔗 **Demo:** <a href="https://estela-adv.vercel.app/" target="_blank">estela-adv.vercel.app</a>
 
 ---
 
-### 💼 [Winbakk Solution](https://winbakk-solution.vercel.app/)
+### 💼 <a href="https://winbakk-solution.vercel.app/" target="_blank">Winbakk Solution</a>
 > Landing page para empresa de soluções tecnológicas
 
 **Stack:** HTML5 • CSS3 • JavaScript • Vercel  
 **Features:** Design moderno • Animações • Call-to-actions estratégicos
 
-🔗 **Demo:** [winbakk-solution.vercel.app](https://winbakk-solution.vercel.app/)
+🔗 **Demo:** <a href="https://winbakk-solution.vercel.app/" target="_blank">winbakk-solution.vercel.app</a>
 
 ---
 
@@ -166,9 +166,9 @@ Atualmente trabalho como **Analista N2 na HidroMares By SGS** e estudo **Anális
 
 Estou sempre aberto a novos projetos, colaborações e oportunidades!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arsgoliveira)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail)](mailto:contato@microfastinformatica.online)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-000000?style=for-the-badge&logo=vercel)](https://microfastinformatica.online)
+<a href="https://www.linkedin.com/in/arsgoliveira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:contato@microfastinformatica.online"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail" alt="Email"/></a>
+<a href="https://microfastinformatica.online" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visitar-000000?style=for-the-badge&logo=vercel" alt="Portfolio"/></a>
 
 </div>
 
@@ -176,7 +176,7 @@ Estou sempre aberto a novos projetos, colaborações e oportunidades!
 
 <div align="center">
 
-### 💻 Desenvolvido por Antonio Oliveira
+### 💻 Desenvolvido com ❤️ por Antonio Oliveira
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arsgoliveira&color=3b82f6&style=for-the-badge&label=Visitantes)
 
