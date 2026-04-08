@@ -85,13 +85,13 @@ Atualmente trabalho como **Analista N2 na HidroMares By SGS** e estudo **Anális
 
 <br/>
 
-### 🛒 MercaLog
+### 🛒 <a href="https://mercalog.vercel.app/" target="_blank">MercaLog</a>
 > App mobile PWA para controle pessoal de gastos em supermercado
 
 **Stack:** React • TypeScript • PWA • IndexedDB  
 **Features:** Scanner de código de barras • Registro de sessões de compra • Rastreamento de inflação • Gestão de variantes de produtos
 
-🔗 **Repositório:** <a href="https://github.com/arsgoliveira/mercalog" target="_blank">github.com/arsgoliveira/mercalog</a>
+🔗 **Demo:** <a href="https://mercalog.vercel.app/" target="_blank">mercalog.vercel.app</a> · **Repo:** <a href="https://github.com/arsgoliveira/mercalog" target="_blank">GitHub</a>
 
 ---
 
