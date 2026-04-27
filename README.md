@@ -176,7 +176,7 @@ Estou sempre aberto a novos projetos, colaborações e oportunidades!
 
 <div align="center">
 
-### 💻 Desenvolvido com ❤️ por Antonio Oliveira
+### 💻 Desenvolvido por Antonio Oliveira
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arsgoliveira&color=3b82f6&style=for-the-badge&label=Visitantes)
 
