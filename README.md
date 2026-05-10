@@ -6,7 +6,7 @@ Atualmente sou Analista N2 na HidroMares by SGS e estudo Análise e Desenvolvime
 
 ## O que estou construindo
 
-**[Anluup](https://github.com/arsgoliveira/anluup)** — Marketplace de serviços locais com app nativo Android/iOS (Capacitor 8), PWA, bot WhatsApp, geolocalização por GPS/raio/CEP e CI/CD via GitHub Actions.  
+**Anluup** *(em desenvolvimento — repositório privado)* — Marketplace de serviços locais com app nativo Android/iOS (Capacitor 8), PWA, bot WhatsApp, geolocalização por GPS/raio/CEP e CI/CD via GitHub Actions.  
 `Next.js 16 · React 19 · TypeScript 5 · Tailwind CSS 4 · FastAPI · Docker`
 
 **HidroMares Dashboard** — Dashboard interno de KPIs consumindo a Jira Cloud API em tempo real. Usado diariamente pela minha equipe na SGS.  
