@@ -12,12 +12,12 @@ Atualmente sou Analista N2 na HidroMares by SGS e estudo Análise e Desenvolvime
 **HidroMares Dashboard** — Dashboard interno de KPIs consumindo a Jira Cloud API em tempo real. Usado diariamente pela minha equipe na SGS.  
 `React · FastAPI · PostgreSQL · JWT`
 
-**[Estela Sousa Advocacia](https://github.com/arsgoliveira/estela-adv)** — Site profissional para escritório de advocacia, em produção com cliente real.  
-`Next.js · TypeScript · Tailwind CSS`
+**[Gastos Fácil](https://github.com/arsgoliveira/gastos-facil)** — App nativo Android para controle de compras: scanner de código de barras, sessão de compras ativa, acompanhamento de inflação por produto ao longo do tempo e exportação CSV. Google Auth + backend REST com Prisma.  
+`Java · Android Studio · TypeScript · Next.js · Prisma · Google Auth`
 
 ## Stack
 
-React · Next.js · TypeScript · Tailwind CSS · Node.js · Python · FastAPI · PostgreSQL · Docker · GitHub Actions
+React · Next.js · TypeScript · Tailwind CSS · Node.js · Python · FastAPI · PostgreSQL · Docker · GitHub Actions · Java · Android
 
 ## Contato
 
