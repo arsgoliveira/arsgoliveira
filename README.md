@@ -9,7 +9,7 @@ Atualmente sou Analista N2 na HidroMares by SGS e estudo Análise e Desenvolvime
 **Anluup** *(em desenvolvimento — repositório privado)* — Marketplace de serviços locais com app nativo Android/iOS (Capacitor 8), PWA, bot WhatsApp, geolocalização por GPS/raio/CEP e CI/CD via GitHub Actions.  
 `Next.js 16 · React 19 · TypeScript 5 · Tailwind CSS 4 · FastAPI · Docker`
 
-**HidroMares Dashboard** — Dashboard interno de KPIs consumindo a Jira Cloud API em tempo real. Usado diariamente pela minha equipe na SGS.  
+**HidroMares Dashboard** — Dashboard interno de KPIs consumindo a Jira Cloud API em tempo real.  
 `React · FastAPI · PostgreSQL · JWT`
 
 **[Gastos Fácil](https://github.com/arsgoliveira/gastos-facil)** — App nativo Android para controle de compras: scanner de código de barras, sessão de compras ativa, acompanhamento de inflação por produto ao longo do tempo e exportação CSV. Google Auth + backend REST com Prisma.  
