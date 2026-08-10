@@ -1,24 +1,38 @@
-# Antonio Rodrigo
+# Antonio Rodrigo Gomes de Oliveira
 
-Desenvolvedor Full Stack baseado em Santos, SP. Passei 25 anos tocando minha própria empresa de TI antes de focar em desenvolvimento de software em 2023.
+Desenvolvedor Full Stack em Santos, SP, com trajetoria de aproximadamente 25 anos em Tecnologia da Informacao e atuacao em desenvolvimento de software desde 2023.
 
-Atualmente sou Analista N2 na HidroMares by SGS e estudo Análise e Desenvolvimento de Sistemas na UNISANTOS.
+Atualmente atuo como Analista de TI N2 na HidroMares by SGS e curso Analise e Desenvolvimento de Sistemas na UNISANTOS.
 
-## O que estou construindo
+Estou buscando oportunidade como **Desenvolvedor Full Stack JR**, com foco em aplicacoes web, APIs, dashboards corporativos e produtos digitais.
 
-**Anluup** *(em desenvolvimento — repositório privado)* — Marketplace de serviços locais com app nativo Android/iOS (Capacitor 8), PWA, bot WhatsApp, geolocalização por GPS/raio/CEP e CI/CD via GitHub Actions.  
-`Next.js 16 · React 19 · TypeScript 5 · Tailwind CSS 4 · FastAPI · Docker`
+## Projetos em destaque
 
-**HidroMares Dashboard** — Dashboard interno de KPIs consumindo a Jira Cloud API em tempo real.  
-`React · FastAPI · PostgreSQL · JWT`
+**AnLuUp** *(pre-lancamento - repositorios privados)*  
+Plataforma full stack para conexao entre clientes e profissionais de servicos, com experiencia web responsiva, app Android, busca publica, perfis, reputacao, assinaturas e painel operacional. A arquitetura principal, backend, dashboards e modulo de readiness ja foram implementados e validados.  
+Tecnologias: `Next.js 16`, `React 19`, `TypeScript`, `Tailwind CSS`, `Python`, `Django`, `Django REST Framework`, `PostgreSQL`, `Supabase`, `Capacitor`, `Android`, `Render`, `GitHub Actions`, `RBAC`, `KYC`  
+Site: [anluup.com.br](https://anluup.com.br/)
 
-**[Gastos Fácil](https://github.com/arsgoliveira/gastos-facil)** — App nativo Android para controle de compras: scanner de código de barras, sessão de compras ativa, acompanhamento de inflação por produto ao longo do tempo e exportação CSV. Google Auth + backend REST com Prisma.  
-`Java · Android Studio · TypeScript · Next.js · Prisma · Google Auth`
+**Micro Fast Informatica**  
+Site institucional desenvolvido em HTML, CSS e JavaScript puro, com foco em apresentacao de servicos, estrutura estatica e navegacao responsiva. Projeto relevante para demonstrar dominio de frontend sem framework e manutencao web.  
+Tecnologias: `HTML5`, `CSS3`, `JavaScript`, `Design Responsivo`, `Site Estatico`  
+Site: [microfastinformatica.online](https://microfastinformatica.online/)
 
-## Stack
+**HidroMares Dashboard**  
+Dashboard web desenvolvido para acompanhamento operacional de chamados, visualizacao por estagio, apoio ao controle de atendimento e consolidacao de informacoes internas. Projeto relevante para demonstrar integracao entre frontend, backend, autenticacao e visualizacao de dados.  
+Tecnologias: `React`, `FastAPI`, `PostgreSQL`, `JWT`, `Jira Cloud API`  
+Demo: [hidromares-dashboard-v5.surge.sh](https://hidromares-dashboard-v5.surge.sh/)
 
-React · Next.js · TypeScript · Tailwind CSS · Node.js · Python · FastAPI · PostgreSQL · Docker · GitHub Actions · Java · Android
+## Stack principal
+
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Python` `Django` `Django REST Framework` `FastAPI` `PostgreSQL` `Supabase` `Git` `GitHub Actions` `Docker` `Capacitor` `Android`
+
+## Fluxo de desenvolvimento
+
+Utilizo IA como apoio no desenvolvimento, documentacao tecnica, refinamento de implementacoes e aceleracao de entrega, mantendo validacao tecnica e decisao final sobre arquitetura, seguranca e codigo.
 
 ## Contato
 
-[linkedin.com/in/arsgoliveira](https://linkedin.com/in/arsgoliveira) · argoliveira80@gmail.com
+- [LinkedIn](https://linkedin.com/in/arsgoliveira)
+- [Portfolio](https://arsgoliveira.github.io/)
+- argoliveira80@gmail.com
